@@ -100,7 +100,9 @@ li a:hover {
         cursor: pointer;
 }
 
-.button1
+
+
+#para
 {
-    background-color:cornflowerblue;
+	color: firebrick;
 }
