@@ -14,7 +14,7 @@ in the US,£999/£1099 in the UK, €1149/€1249 in Europe`;
 function loaddata(button) {
    selectedOption = button.value;
    if (selectedOption == "1") {
-    document.getElementById("iphonexs").src = "images/iphone11.png"
+    document.getElementById("iphonexs").src = "images/iphone11.png" 
     document.getElementById("chgtext").innerHTML = iphone11disc;
   } 
   
